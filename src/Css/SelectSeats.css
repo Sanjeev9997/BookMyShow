@@ -1,0 +1,16 @@
+.SS_main_container{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    color: black;
+
+}
+.form-check-label{
+    border: 1px solid black;
+    width:100px;
+}
+.SS_heading{
+    width: 100%;
+    font-size: 22px;
+    color: black;
+}
